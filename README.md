@@ -1,4 +1,4 @@
-# Sales Rabbit Code Challenge
+# Code Challenge
 
 ## Requirements
 
